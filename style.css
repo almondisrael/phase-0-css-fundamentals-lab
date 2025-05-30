@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+  padding: 160px 9px;
+}
+img{
+  width: 550px;
+  display: block;
+  margin: auto;
+
+}
+#details{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  background-color: red;
+  padding: 18px;
+  height: fit-content;
+}
+#featured-property p{
+  text-align: center;
+}
+#featured-property figcaption{
+  text-align: center;
+}
